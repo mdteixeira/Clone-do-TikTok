@@ -1,4 +1,4 @@
-import React, { useState } from 'React'
+import React, { useState } from 'react'
 import "./videoSidebar.css"
 import FavoriteBorderIcon from '@mui/icons-material/FavoriteBorder';
 import FavoriteIcon from '@mui/icons-material/Favorite';
@@ -38,4 +38,3 @@ function VideoSidebar({ likes, messages, shares }) {
 }
 
 export default VideoSidebar
-
