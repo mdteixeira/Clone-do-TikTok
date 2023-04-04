@@ -1,4 +1,5 @@
 # Projeto "Clone do TikTok" 🎶
+## Feito a partir da "Jornada Full Stack" disponibilizada pela EBAC Online
 
 ### Tecnologias utilizadas 
  - HTML 🏗️
