@@ -3,7 +3,7 @@
 ### Tecnologias utilizadas 
  - HTML 🏗️
  - CSS 🖌️ 
- - React ⚛️
+ - Node.JS; React ⚛️
  - Firebase 🔥
 
 
